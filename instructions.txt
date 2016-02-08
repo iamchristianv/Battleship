@@ -1,0 +1,9 @@
+Battleship Instructions
+
+(1) First, you must place your ships on the USER side. To place a ship, click on a coordinate, select a ship, select a valid direction, then click on the button. To remove a ship, click on a coordinate that contains the ship. You will not be able to place or remove ships once all 5 ships have been placed. 
+
+(2) Second, you must select a file for the ships on the COMPUTER side. To select a file, click on the button then select a valid .battle file. 
+
+Once all 5 ships have been placed and a file has been selected, click on the start button then click on a coordinate on the COMPUTER side to start the game. When you do this, you will attack the computer and the computer will attack you right back. 
+
+In order to win, you must sink all 5 ships on the COMPUTER side before the computer sinks all 5 ships on the USER side. If you hit a ship on the COMPUTER side, a letter representing the ship you hit will appear where you attacked. If you miss, a minus sign will appear instead. If the computer hits a ship on the USER side, a plus sign will appear where the computer attacked. If the computer misses, a minus sign will appear instead. 
